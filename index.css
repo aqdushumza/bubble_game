@@ -33,8 +33,7 @@ html , body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-.elem{
+}.elem{
    margin: 0 25px;
    font-size: 25px;
    font-weight: 800;
@@ -77,3 +76,4 @@ html , body{
 #bubble:hover{
     cursor: pointer;
 }
+
